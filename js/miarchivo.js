@@ -6,7 +6,7 @@ let eleccion = prompt (infoTema)
 function handleChoice (dato) {
     switch (dato) {
         case "1":
-            alert("GIBENCHY - El single que DUKI volvio al trap. Lanzado en Julio del 2022")
+            alert("GIVENCHY - El single que DUKI volvio al trap. Lanzado en Julio del 2022")
             break;
         case "2":
             alert("Bad Bunny lanzó su disco 'Un Verano Sin Ti' junto con Bomba Estereo. Lanzado en Mayo del 2022");
